@@ -29,5 +29,5 @@ jobs:
           context: ./backend
           file: ./backend/Dockerfile
           push: true
-          tags: jainam1111/ci-cd-backend:latest
+          tags: jenilsoni2004/lab11-ci-cd-2:latest
 
